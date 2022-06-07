@@ -28,3 +28,4 @@ easymanh(eff = eff_walk1$V3, pos = eff_walk1$V4,
 title("Trait A",cex = 1.2)
 ```
 ## This plot would look like:
+![plot 1!](https://github.com/alvesand/easymanh/blob/master/manh_ex.tiff)
