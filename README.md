@@ -1,4 +1,4 @@
- easymanh: A flexible script for plotting Manhattan plots with different SNP scores
+ # easymanh: A flexible script for plotting Manhattan plots with different SNP scores
 
 ## Main parameters are
 
