@@ -18,6 +18,9 @@
 ## Example:
 #Not run
 ```R
+#Import source code
+library(devtools)
+devtools::source_url("https://github.com/alvesand/easymanh/blob/master/easymanh.R?raw=TRUE")
 easymanh(eff = eff_walk1$V3, pos = eff_walk1$V4, 
          chr = chr, col.op = c(rgb(0.4,0.4,0.6,1), "gray"),
          xlab = "Windows", alpha = 175, sign = 6, sig_col = "red")
