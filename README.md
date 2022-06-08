@@ -16,7 +16,6 @@
 * **custom_labels:** *Optional*. A vector of labels for the Chromosomes. Ex: custom_labels = c("1", "2", "3", "4", "X", "Y", "MT")
 
 ## Example:
-#Not run
 ```R
 #Import source code
 library(devtools)
